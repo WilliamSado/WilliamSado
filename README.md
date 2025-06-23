@@ -2,12 +2,11 @@
 
 ### About me | 关于
 
-- Yui just a noob | 优衣 菜
+- Just a noob
 ### Contact me | 联系我
 
 - Tencent QQ | QQ : 2172913827
 - GitHub | GitHub : [Github@WilliamSado](https://github.com/WilliamSado)
-- Bilibili | 哔哩哔哩 : [Bilibili@佐田翔太](https://space.bilibili.com/1263874904)
 - Telegram | Tg : [@William_Sado](https://t.me/william_sadoyui)
 - Coolapk: 优衣sama
 
